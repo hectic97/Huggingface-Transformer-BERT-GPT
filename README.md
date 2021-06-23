@@ -1,5 +1,5 @@
 # Huggingface-Transformer-BERT-GPT
-Huggingface-Transformer BERT, GPT Application Practice<br>
+Huggingface-Transformer pretrained multilingual BERT, GPT model Application<br>
 ### Reference
 https://huggingface.co/transformers/index.html<br>
 https://github.com/NLP-kr/tensorflow-ml-nlp-tf2

@@ -25,7 +25,7 @@ https://github.com/NLP-kr/tensorflow-ml-nlp-tf2
 Label |     precision  |  recall | f1-score |  support |
 ---- | ---- | ---- | ---- | ---- |
 AFW    |   0.42   |   0.50  |    0.45   |    393
-ANM    |   0.64   |   0.73      0.68     |  699
+ANM    |   0.64   |   0.73  |    0.68     |  699
 CVL     |  0.71|      0.76|      0.73 |     5735
 DAT      | 0.88 |     0.89 |     0.89  |    2510
 EVT       |0.69  |    0.71  |    0.70   |   1093

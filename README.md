@@ -49,8 +49,14 @@ weighted avg |      0.76|      0.80|      0.78 |    29103
 - label: 3.8 ( low similarity 0 ~ 5 high similarity )
 
 ### Pearson correlation coefficient
-dataset| Pearson Correleation | MSE
+dataset| Pearson Correlation | MSE
 ---- | ---- | ---- |
 train | 0.7986 | 0.4523
 dev | 0.8136 | 0.7116
 test | 0.8104 | 0.9846
+
+### inference
+sentence1 | sentence2 | Pearson Coef 
+----|----|----|
+당신은 실험하고 당신이 좋아하는 것을 찾아야 할지도 모른다.  |당신은 당신에게 어떤 게 효과가 있는지 알아내야 한다. | 2.532
+한 남자가 기타를 치고 있다. | 한 남자가 트럼펫을 연주하고 있다. | 1.910
